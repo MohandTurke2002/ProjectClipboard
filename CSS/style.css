@@ -40,7 +40,6 @@ body {
 .landing {
   background-image: url(../Images/bg-header-desktop.png);
   background-size: cover;
-  height: calc(100vh - 64px);
   text-align: center;
   padding: 0.5rem 1rem;
   display: flex;
